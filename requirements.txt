@@ -1,0 +1,4 @@
+pyinstaller
+keyboard
+pyperclip
+win32gui
